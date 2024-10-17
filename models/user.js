@@ -1,4 +1,6 @@
 const mongoose = require('mongoose');
+// controllers/users.js
+
 
 const userSchema = new mongoose.Schema({
     username: {
